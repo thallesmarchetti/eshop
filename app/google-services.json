@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "164694952807",
+    "firebase_url": "https://eshop-7735e-default-rtdb.firebaseio.com",
+    "project_id": "eshop-7735e",
+    "storage_bucket": "eshop-7735e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164694952807:android:d9a7ba5143141223dd3dc2",
+        "android_client_info": {
+          "package_name": "edu.infnet.thallesmarchetti.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164694952807-oairmfeua68bniuuk1tgvebfnalu48d0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.infnet.thallesmarchetti.eshop",
+            "certificate_hash": "63992f96d7077fb4caba3e228b79bb7471fbab45"
+          }
+        },
+        {
+          "client_id": "164694952807-eumqersavfcn24gn6jusrbn2q6sbcgg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeoM0jGYBCNikXaOxgQy20JPkAr3U3qeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164694952807-eumqersavfcn24gn6jusrbn2q6sbcgg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
