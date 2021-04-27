@@ -20,6 +20,15 @@ Protótipo de aplicativo Android voltado para uma loja virtual de produtos.
 - Filtragem
 - Notificações
 
-# Video demonstrativo
+# Videos demonstrativos
 
 https://vimeo.com/539860024
+
+### Login
+https://vimeo.com/541929362
+
+### Adicionar Produto
+https://vimeo.com/541929627
+
+### Editar e deletar produto
+https://vimeo.com/541929665
