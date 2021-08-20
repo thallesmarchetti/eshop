@@ -3,6 +3,8 @@
 
 Protótipo de aplicativo Android voltado para uma loja virtual de produtos.
 
+### [Google Play](https://play.google.com/store/apps/details?id=edu.infnet.thallesmarchetti.eshop)
+
 ## Funcionalidades
 
 - [x] Sistema de login com Firebase
